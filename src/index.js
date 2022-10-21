@@ -1,4 +1,6 @@
 import "./style.css";
+import _ from 'lodash';
+
 console.log("Hello ThreeJs");
 
 // create a screen
