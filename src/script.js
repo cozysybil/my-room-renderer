@@ -1,3 +1,4 @@
+import "./style.css";
 console.log("Hello ThreeJs");
 
 // create a screen
